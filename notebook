@@ -9,7 +9,7 @@ Affiliation: University of Vermont
 
 
  Table of contents    
-* [Page 1: 2016-09-15](#id-section1). Inital Entry
+* [Page 1: 2016-10-04](#id-section1). Yocum's TE
 * [Page 2:](#id-section2). 
 * [Page 3:](#id-section3).
 * [Page 4:](#id-section4).
@@ -213,7 +213,16 @@ Affiliation: University of Vermont
 
 ------
 <div id='id-section1'/>
-Page 1: 2016-09-15.  First.
+Page 1: 2016-10-04.  Looking for George Yocum's TEs in the resequenced dataset:
+<a href="https://www.researchgate.net/publication/260337272_Isolation_of_miniature_subterminal_inverted_repeat_transposable-like_elements_from_diapause-regulated_genes_in_the_Colorado_potato_beetle_Leptinotarsa_decemlineata">Paper here</a>
+
+Hypothesis: George Yocum found some interesting TEs around a Diapause-Associated transcript. If that is associated with
+cold adaptation, we might expect to find the TE in more northern populations, but not Southern. 
+
+How to:
+1: Get the FASTA for the DAT gene, along with 4000kb flanks.
+2. BLAST the three MITES against each of those. 
+
 
 
 ------
